@@ -9,5 +9,5 @@ Supports
 3. Drag and drop re-ordering of apps 
 4. Customizable menu 
 
-To get started [https://login.salesforce.com/packaging/installPackage.apexp?p0=04tj0000001eEZ3](Install this package)
+To get started [Install this package](https://login.salesforce.com/packaging/installPackage.apexp?p0=04tj0000001eiWB)
 
